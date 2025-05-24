@@ -1,5 +1,1 @@
-Fluorescence microscopy, a widely utilized method for visualizing cellular structures, faces a challenge in maintaining consistent 
-image quality due to the absence of a standardized statistical guideline. Denoising algorithms have been created to overcome the 
-obstacles of setting  image aquisition parameters to produce high quality images without generating phototoxicity. However, these tools have not been 
-thoroughly tested for their effeciency. The following programs are part of a research project that aims to test a denoising AI
-algorithm and determine an appropiate general guideline for the aquisition of high quality fluorescence microscopy images. 
+Fluorescence microscopy is a widely used technique for visualizing cellular structures, but it faces challenges in maintaining consistent image quality due to the lack of standardized statistical guidelines. To address this, various denoising algorithms have been developed to optimize image acquisition parameters, aiming to produce high-quality images while minimizing phototoxicity. However, the effectiveness of these tools has not been thoroughly evaluated. This research project focuses on testing a denoising AI algorithm and establishing appropriate general guidelines for acquiring high-quality fluorescence microscopy images.
